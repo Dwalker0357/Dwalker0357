@@ -15,7 +15,7 @@ Hello there im Dale, coming from a background in science and engineering i've al
 <br>
 Hobbies: 
 <br>
-:running: Staying active
+:computer: Programming and deploying my own passion projects
 <br>
 :sushi: Making sushi 
 <br>
@@ -23,4 +23,4 @@ Hobbies:
 <br>
 :bow_and_arrow: Archery
 <br>
-:computer: Programming and deploying my own passion projects
+:running: Staying active
