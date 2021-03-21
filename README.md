@@ -12,7 +12,11 @@ Hello there im Dale, coming from a background in science and engineering i've al
 <br>
 📫 How to reach me - d.walker0357@gmail.com
 <br>
-:sunny: Hobbies: 
 <br>
-:running: Staying Active
-
+Hobbies: 
+<br>
+:running: Staying active
+<br>
+:sushi: Making sushi 
+<br>
+:space_invader: Gaming
