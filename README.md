@@ -22,3 +22,5 @@ Hobbies:
 :space_invader: Gaming
 <br>
 :bow_and_arrow: Archery
+<br>
+:computer: Programming and deploying my own passion projects
