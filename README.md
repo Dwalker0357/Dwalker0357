@@ -1,7 +1,6 @@
 Hello there im Dale, coming from a background in science and engineering i've always had a interest in tech and computer hardware but my real passion for computing was born from containerisation and automation in my three month DevOps boot-camp training with QA academy.
 
 <br>
-<br>
 
 🔭 I’m currently working - On the SFIA group project three which includes continuous integration and deployment of an application.
 <br>
@@ -13,4 +12,7 @@ Hello there im Dale, coming from a background in science and engineering i've al
 <br>
 📫 How to reach me - d.walker0357@gmail.com
 <br>
-⚡ Hobbies: 
+:sunny: Hobbies: 
+<br>
+:running: Staying Active
+
