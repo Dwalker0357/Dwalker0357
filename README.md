@@ -20,3 +20,5 @@ Hobbies:
 :sushi: Making sushi 
 <br>
 :space_invader: Gaming
+<br>
+:bow_and_arrow: Archery
