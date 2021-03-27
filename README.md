@@ -19,7 +19,7 @@ LinkedIn - https://www.linkedin.com/in/dale-walker-b4b8b0209/
 <br>
 Hobbies: 
 <br>
-:computer:Programming and deploying my own passion projects
+:computer:Programming/Deploying passion projects
 <br>
 :sushi:Making sushi 
 <br>
