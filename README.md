@@ -27,6 +27,6 @@ Hobbies:
 <br>
 :bow_and_arrow:Archery
 <br>
-:running:Staying active
+:running:Staying Active
 <br>
 :ice_skate:Roller Skating
