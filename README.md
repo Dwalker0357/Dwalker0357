@@ -10,9 +10,7 @@ Hello there I'm Dale, coming from a background in science and engineering I've a
 <br>
 💬 Ask me about Anything, specifically job or training opportunities
 <br>
-📫 How to reach me:
-<br>
-Email - d.walker0357@gmail.com
+📫 How to reach me: d.walker0357@gmail.com
 <br>
 <br>
 Hobbies: 
