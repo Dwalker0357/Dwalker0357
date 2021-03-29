@@ -2,11 +2,11 @@ Hello there I'm Dale, coming from a background in science and engineering I've a
 
 <br>
 
-🔭 I’m currently working - Microsoft Azure AZ-900 with Cloud Academy
+🔭 I’m currently working on - Microsoft Azure AZ-900 exam preparation with Cloud Academy
 <br>
 🌱 I’m currently learning - Amazon Web Services, Terraform and Kubernetes
 <br>
-🤔 I’m looking for help with - Learning Javascript, PHP and Ruby
+🤔 I’m looking for help with - Learning JavaScript, PHP and Ruby
 <br>
 💬 Ask me about Anything, specifically job or training opportunities
 <br>
