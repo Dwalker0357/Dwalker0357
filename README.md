@@ -2,7 +2,7 @@ Hello there I'm Dale, coming from a background in science and engineering I've a
 
 <br>
 
-🔭 I’m currently working - On the SFIA group project three which includes continuous integration and deployment of an application.
+🔭 I’m currently working - Microsoft Azure AZ-900 with Cloud Academy
 <br>
 🌱 I’m currently learning - Amazon Web Services, Terraform and Kubernetes
 <br>
