@@ -14,8 +14,6 @@ Hello there I'm Dale, coming from a background in science and engineering I've a
 <br>
 Email - d.walker0357@gmail.com
 <br>
-LinkedIn - https://www.linkedin.com/in/dale-walker-b4b8b0209/
-<br>
 <br>
 Hobbies: 
 <br>
