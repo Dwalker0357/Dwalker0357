@@ -1,4 +1,4 @@
-Hello there im Dale, coming from a background in science and engineering i've always had a interest in tech and computer hardware but my real passion for computing was born from containerisation and automation in my three month DevOps boot-camp training with QA academy.
+Hello there I'm Dale, coming from a background in science and engineering I've always had a interest in tech and computer hardware but my real passion for computing was born from containerization and automation in my three month DevOps boot-camp training with QA academy.
 
 <br>
 
