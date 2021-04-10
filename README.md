@@ -2,7 +2,7 @@ Hello there I'm Dale, coming from a background in science and engineering I've a
 
 <br>
 
-🔭 I’m currently working on - Full Spectrum minecraft cloud server hosting services.
+🔭 I’m currently working on - Full Spectrum Minecraft cloud hosting services.
 <br>
 🌱 I’m currently learning - JavaScript, Docker, Terraform and Ansible
 <br>
