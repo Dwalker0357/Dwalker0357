@@ -2,9 +2,9 @@ Hello there I'm Dale, coming from a background in science and engineering I've a
 
 <br>
 
-🔭 I’m currently working on - Microsoft Azure AZ-900 exam preparation with Cloud Academy
+🔭 I’m currently working on - Full Spectrum minecraft cloud server hosting services.
 <br>
-🌱 I’m currently learning - Amazon Web Services, Terraform and Kubernetes
+🌱 I’m currently learning - JavaScript, Docker, Terraform and Ansible
 <br>
 🤔 I’m looking for help with - Learning JavaScript, PHP and Ruby
 <br>
