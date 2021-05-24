@@ -2,11 +2,11 @@ Hello there I'm Dale, coming from a background in science and engineering I've a
 
 <br>
 
-🔭 I’m currently working on - Full Spectrum Minecraft cloud hosting services.
+🔭 I’m currently working on - AWS Cloud practitioner certification preparation
 <br>
 🌱 I’m currently learning - JavaScript, Docker, Terraform and Ansible
 <br>
-🤔 I’m looking for help with - Learning JavaScript and Ruby
+🤔 I’m looking for help with - Learning JavaScript and Java
 <br>
 💬 Ask me about Anything, specifically job or training opportunities
 <br>
