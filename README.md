@@ -6,8 +6,6 @@ Hello there I'm Dale, coming from a background in science and engineering I've a
 <br>
 🌱 I’m currently learning - JavaScript, Docker, Terraform and Ansible
 <br>
-🤔 I’m looking for help with - Learning JavaScript and Java
-<br>
 💬 Ask me about Anything, specifically job or training opportunities
 <br>
 📫 How to reach me: d.walker0357@gmail.com
