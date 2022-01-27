@@ -3,7 +3,6 @@ During a knee injury that kept me out of employment I had the opportunity to imp
  
 My real passions for DevOps was born from containerization and automation in my three month DevOps training and work experience with QA Consulting.
 
-<br>
 Hobbies: 
 <br>
 :computer:Programming/Deploying passion projects
