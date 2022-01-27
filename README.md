@@ -4,16 +4,6 @@ During a knee injury that kept me out of employment I had the opportunity to imp
 My real passions for DevOps was born from containerization and automation in my three month DevOps training and work experience with QA Consulting.
 
 <br>
-
-🔭 I’m currently working on - AWS Cloud practitioner certification preparation
-<br>
-🌱 I’m currently learning - JavaScript, Docker, Terraform and Ansible
-<br>
-💬 Ask me about Anything, specifically job or training opportunities
-<br>
-📫 How to reach me: d.walker0357@gmail.com
-<br>
-<br>
 Hobbies: 
 <br>
 :computer:Programming/Deploying passion projects
