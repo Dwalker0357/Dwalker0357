@@ -13,6 +13,4 @@ Hobbies:
 <br>
 :bow_and_arrow:Archery
 <br>
-:running:Staying Active
-<br>
-:ice_skate:Roller Skating
+:japanese_castle:jiu-jitsu
